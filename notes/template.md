@@ -1,0 +1,17 @@
+# \[Category\] - \[Challenge Name\]
+
+## Prompt
+
+\[Paste Prompt here\]
+
+#### Hints
+\[Any hints given with the prompt or by the chall admin\]
+
+## Provided Files
+
+\[List provided files here\]
+
+## Write Up
+
+\[List the steps sequentially using bullets points\] 
+\[Sparate using subheadings where appropriate\] 
