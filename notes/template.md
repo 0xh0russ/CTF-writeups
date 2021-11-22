@@ -1,4 +1,6 @@
-# \[Category\] - \[Challenge Name\]
+# \[Category\] - Challenge Name
+
+#### Points = 
 
 ## Prompt
 
@@ -15,3 +17,7 @@
 
 \[List the steps sequentially using bullets points\] 
 \[Sparate using subheadings where appropriate\] 
+
+## Flag
+
+\[place flag here\]

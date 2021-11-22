@@ -1,4 +1,5 @@
 # CTF-Notes
+**TLDR: these writeups include all my attempts, scroll all the way down the md file to find the approach that worked**
 
 ## What this is
 
