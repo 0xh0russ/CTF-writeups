@@ -22,7 +22,7 @@ RSA is based.
 - in rsa the ciphertext is generated using the public exponent as follows
 	- `cipher_text = (plain_text ** e) % n`
 - since the letters are encrypted one by one and we have the ciphertexts, we can brute force the plaintext chars.
-- using this <a href="https://www.utf8-chartable.de">chart</a> we know this will be in range \[0x21 - 0x7e\]
+- using this <a href="https://www.utf8-chartable.de">chart</a> we know these will be in range \[0x21 - 0x7e\]
 - code can be found in files
 
 ![image info](../images/uwuCTF_UT_ISSS/rsa.png)
