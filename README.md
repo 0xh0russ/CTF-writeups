@@ -16,3 +16,10 @@ The organization is pretty self-explanatory.
 	- notes/\<ctf-name\>/\<challenge\>.md
 - All challenge files will be found in the files directory
 	- files/\<ctf-name\>/\<challenge\>/\*
+
+
+## Table of Contents
+
+### 2021
+
+- [uwuCTF](./notes/uwuCTF_UT_ISSS)
