@@ -5,6 +5,7 @@
 ## Prompt
 
 Oh no! The evil AI Xana is preventing me from reading the flag! Can you help?
+By Aya (@Aya the Awesome on discord)
 
 #### Hints
 \[None\]

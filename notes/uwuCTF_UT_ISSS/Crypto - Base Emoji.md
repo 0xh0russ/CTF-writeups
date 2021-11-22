@@ -6,6 +6,8 @@
 
 base64 is a boomer algorithm, so I've created a zooomer standard for encoding data. Can you figure out the encoding? 🍕🍔🍆🍌🍁🍇🍛🍂🍁🍓🍅🍄🌿🍅🍍🍏🍊🍉🍓🌿🍇🍏🌿🍚🍏🍏🍍🍝
 
+by mattyp
+
 #### Hints
 \[None\]
 

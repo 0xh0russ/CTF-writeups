@@ -6,6 +6,8 @@
 
 I found this weird DNS server that lets you query this weird domain. Can you help me uncover their secrets? `dig @ctf.isss.io -p 4628 0.flag.uwu.com`
 
+by mattyp
+
 #### Hints
 \[None\]
 
@@ -37,7 +39,7 @@ I found this weird DNS server that lets you query this weird domain. Can you hel
 		- `python3 -c "for i in range(0, 11): print(str(i) + '.flag.uwu.com')" > domains.txt`
 	- check if there are associated IPs
 		- `dig @ctf.isss.io -p 4628 -f domains.txt +short`
-		- this returns 8 IPs, lets assume that theses are no more for now.
+		- this returns 8 IPs, lets assume that there are no more for now.
 		```
 		117.116.102.108
 		97.103.123.100

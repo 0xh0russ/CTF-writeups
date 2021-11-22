@@ -12,6 +12,8 @@ Try to find my secwet fwag,
 
 \[http://ctf.isss.io:1232/ \]
 
+- Cybercowboy
+
 #### Hints
 \[None\]
 
