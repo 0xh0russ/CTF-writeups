@@ -58,7 +58,7 @@ by mattyp
 
 - so these are actually utf-8 encodings for the flag characters
 - I would not have guessed that, should think of this whenever I'm stuck in the future.
-- code found in the files.
+- code found in the files directory.
 		
 ## Flag
 

@@ -13,7 +13,7 @@ by ggu
 ## Provided Files
 
 - spectro.wav
-	- an audio file which sounds very wierd.
+	- an audio file that sounds very wierd.
 
 ## Write Up
 
@@ -27,7 +27,7 @@ by ggu
 	
 	![image info](../images/uwuCTF_UT_ISSS/spectro_changeview.png)
 	
-	- the spectro gram view reveals the flag.
+	- the spectrogram view reveals the flag.
 
 	![image info](../images/uwuCTF_UT_ISSS/spectro_spectrogram.png)
 
