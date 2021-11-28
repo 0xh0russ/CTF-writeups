@@ -10,6 +10,7 @@
 \[Any hints given with the prompt or by the chall admin\]
 
 ## Provided Files
+[files](../../files/) - link to files
 
 \[List provided files here\]
 

@@ -23,3 +23,5 @@ The organization is pretty self-explanatory.
 ### 2021
 
 - [uwuCTF](./notes/uwuCTF_UT_ISSS)
+- [Damncon](./notes/damncon2021)
+- [CyberSecurityRumble](./notes/cybersecurityrumble)
