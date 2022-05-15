@@ -61,7 +61,7 @@ c2 = 843105902970788695411197846605744081831851
 	print(pt)
 	```
 	- here is the output of the script
-		![output|500](../images/tjctf-2022/rsa_apprentice.png)
+	![output|500](../images/tjctf-2022/rsa_apprentice.png)
 
 ## Flag
 

@@ -54,9 +54,9 @@ I want to learn more about your favorite colors!
 	- using different chars for this part for clarity
 - then we overwrite the local variables in backwards order `4T2`
 - payload:
-	![python|400](../images/tjctf-2022/color_payload.png)
+![python|400](../images/tjctf-2022/color_payload.png)
 - we can pass this payload over `nc` and get the flag
-	![nc|700](../images/tjctf-2022/color_nc.png)
+![nc|700](../images/tjctf-2022/color_nc.png)
 
 ## Flag
 

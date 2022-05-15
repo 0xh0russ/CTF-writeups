@@ -20,7 +20,7 @@ by kfb
 ## Write Up
 
 - Simple web page with an embedded youtube video.
-	![webpage|500](../images/tjctf-2022/ramsey.png)
+![webpage|500](../images/tjctf-2022/ramsey.png)
 - There are no clues in the video itself.
 - As always the #1 step is to view the page src.
 	- the page src has this comment 
