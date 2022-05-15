@@ -25,3 +25,7 @@ The organization is pretty self-explanatory.
 - [uwuCTF](./notes/uwuCTF_UT_ISSS)
 - [Damncon](./notes/damncon2021)
 - [CyberSecurityRumble](./notes/cybersecurityrumble)
+
+### 2022
+
+- [TJCTF 2022](./notes/tjctf-2022)
