@@ -26,7 +26,10 @@ by kpdfgo
 	- we import and analyze the binary
 	- then we can look at the main fucntion in the decompiler window
 	- with some refractoring we can deobfuscate the code
+
+
 ![decomp|600](../images/tjctf-2022/take_decomp.png)
+
 - let's analyze the binary
 	- line #16 - input length must be `0x1a` or `26`
 	- line #18 - there is a flag global variable
@@ -53,8 +56,11 @@ by kpdfgo
 	o.close()
 	```
 - grep the flag
+
 ![grep|500](../images/tjctf-2022/take_grep.png)
+
 - we can then verify the result in the program
+
 ![verify](../images/tjctf-2022/take_verify.png)
 
 ## Flag

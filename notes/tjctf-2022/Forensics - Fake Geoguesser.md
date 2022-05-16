@@ -21,11 +21,14 @@ by alliredapple
 
 - Forensics challenges are guessy in the beginning so we just start with basic commands.
 - first we run file to make sure its actually a JPEG:
+
 ![file|650](geo_file.png)
-	- ok, checks out
+
 - now lets see if the flag is included as a string
+
 ![file|650](geo_strings.png)
-	 - this reveals our flag
+
+- this reveals our flag
 
 ## Flag
 

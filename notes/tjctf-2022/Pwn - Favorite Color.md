@@ -39,7 +39,9 @@ I want to learn more about your favorite colors!
 - we pass the check on line #39 and get the flag
 
 #### What the stack looks like
+
 ![stack|300](../images/tjctf-2022/color_stack.png)
+
 - local variables are pushed on the stack in the order in which they are declared
 - this is a 64-bit system so the stack must be 8-byte aligned.
 	- before struct `c` can be pushed on the stack, 5 bytes of padding are added since each of `r`, `g`, and `b` are 1-byte characters.
@@ -54,8 +56,11 @@ I want to learn more about your favorite colors!
 	- using different chars for this part for clarity
 - then we overwrite the local variables in backwards order `4T2`
 - payload:
+
 ![python|400](../images/tjctf-2022/color_payload.png)
+
 - we can pass this payload over `nc` and get the flag
+
 ![nc|700](../images/tjctf-2022/color_nc.png)
 
 ## Flag

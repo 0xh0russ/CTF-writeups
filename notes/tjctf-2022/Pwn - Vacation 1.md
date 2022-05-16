@@ -25,7 +25,10 @@ by kfb
 ## Write Up
 
 - ok let's see what this is doing.
+
 ![source|500](../images/tjctf-2022/vacation_src.png)
+
+- Breakdown:
 	- line #16 - `main()` calls `vacation()`
 	- line #9 - `vacation()` allocates 16 bytes on the stack for a buffer
 	- line #11 - `fgets()` accepts 64 bytes as input.
@@ -36,12 +39,14 @@ by kfb
 <div style="page-break-after: always"></div>
 
 #### What the Stack Looks like:
+
 ![layout|500](../images/tjctf-2022/vacation_stack.png)
 
 - our input must fill the buffer with 16 bytes
 - the next 8 bytes will fill the space for the saved `rbp` register
 - the last 8 bytes should be filled with the address of `shell_land()`
 - you can find function addresses using gdb: 
+
 ![gdb|500](../images/tjctf-2022/vacation_gdb.png)
 
 <div style="page-break-after: always"></div>
@@ -95,6 +100,7 @@ by kfb
 	```
 
 - this gives you a shell where you can `cat` the flag
+
 ![shell|500](../images/tjctf-2022/vacation_shell.png)
 	
 ## Flag
