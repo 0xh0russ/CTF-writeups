@@ -12,7 +12,7 @@ I want to learn more about your favorite colors!
 \[None\]
 
 ## Provided Files
-[files](../../files/) - link to files
+[files](../../files/tjctf-2022/favorite_color) - link to files
 
 - `chall.c` - source code
 - `chall` - compiled binary
