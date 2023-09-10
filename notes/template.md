@@ -1,6 +1,6 @@
 # \[Category\] - Challenge Name
 
-#### Points = 
+#### Difficulty = 
 
 ## Prompt
 
@@ -9,7 +9,7 @@
 #### Hints
 \[Any hints given with the prompt or by the chall admin\]
 
-## Provided Files
+#### Provided Files
 [files](../../files/) - link to files
 
 \[List provided files here\]

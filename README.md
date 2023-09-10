@@ -20,12 +20,10 @@ The organization is pretty self-explanatory.
 
 ## Table of Contents
 
-### 2021
-
-- [uwuCTF](./notes/uwuCTF_UT_ISSS)
-- [Damncon](./notes/damncon2021)
-- [CyberSecurityRumble](./notes/cybersecurityrumble)
-
-### 2022
-
+**Newest**
+- [Patriot CTF 2023](./notes/patriotctf2023)
 - [TJCTF 2022](./notes/tjctf-2022)
+- [CyberSecurityRumble](./notes/cybersecurityrumble)
+- [Damncon](./notes/damncon2021)
+- [uwuCTF](./notes/uwuCTF_UT_ISSS)
+**Oldest**
