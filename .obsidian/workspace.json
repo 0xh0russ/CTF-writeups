@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/template.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/template.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/template.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,12 +161,13 @@
   },
   "active": "90f65a8a58525f99",
   "lastOpenFiles": [
-    "notes/patriotctf2023/WEB_one_for_all.md",
+    "notes/patriotctf2023/WEB_flower_shop.md",
+    "notes/tjctf-2022/Web - Lamb Sauce.md",
     "notes/template.md",
+    "notes/patriotctf2023/WEB_one_for_all.md",
     "notes/patriotctf2023/WEB_pick_your_starter.md",
     "notes/patriotctf2023/WEB_scavenger_hunt.md",
     "notes/patriotctf2023/WEB_checkmate.md",
-    "notes/patriotctf2023/WEB_flower_shop.md",
     "notes/tjctf-2022/Crypto - RSA Apprentice.md",
     "images/patriotctf2023/starter_ssti.png.md",
     "images/patriotctf2023",
